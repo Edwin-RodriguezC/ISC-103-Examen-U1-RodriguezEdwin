@@ -1,5 +1,4 @@
 namespace Examenu1POO
-
 {
     public class Ejercicio1
     {

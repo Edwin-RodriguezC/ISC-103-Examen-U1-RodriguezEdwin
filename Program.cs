@@ -6,5 +6,8 @@
 // Ejercicio2 e2 = new Ejercicio2();
 // e2.Ejecutar();
 
-Ejercicio3 e3 = new Ejercicio3();
-e3.Ejecutar();
+// Ejercicio3 e3 = new Ejercicio3();
+// e3.Ejecutar();
+
+Ejercicio4 e4 = new Ejercicio4();
+e4.Ejecutar();
