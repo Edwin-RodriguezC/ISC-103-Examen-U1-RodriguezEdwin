@@ -187,7 +187,7 @@ namespace Examenu1POO
                 }
                 else
                 {
-                    Console.WriteLine("El valor declarado no puede ser negativo.");
+                    Console.WriteLine("El valor declarado no puede ser un negativo.");
                 }
             } while (valido == 0);
 
